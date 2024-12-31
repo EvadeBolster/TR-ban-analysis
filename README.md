@@ -4,8 +4,8 @@
 # Uyarı
 Çeşitli yasaklar bu listeye dahil edilmemiştir, alan adları çeşitli kaynaklardan alınmış ve toplanmıştır; aşağıdaki yöntemleri kontrol edebilirsiniz.
 
-- USOM yasakları kapsamsız ve çoğu zaman eksik olduğu için dahil edilmemiştir
-- Bazı yasaklar İSS'ler tarafından uygulanır ancak BTK ve ESB API'leri tarafından sorgulanamaz
+- USOM yasakları çok geniş, belirsiz ve çoğu zaman eksik olduğu için dahil edilmemiştir
+- Bazı yasaklar İSS'ler tarafından uygulanır ancak BTK ve ESB API'leri tarafından sorgulanamaz. (Metodoloji kısmına bkz.)
 
 # Katılım Sağlamak 
 Katkıda bulunulması gereken ana dosya `yasakli_siteler.csv`dir, lütfen değişikliklerinizi dosyanın sonuna ekleyin veya alfabetik olarak ekleyin. Emin değilseniz lütfen bir issue oluşturun.
