@@ -7,4 +7,7 @@ Various bans are not included in this list, the domains are nemurated and fetche
 - Some bans are enforced by the ISPs but are not queryable by BTK and ESB APIs
 
 # Contributing 
-The master file that should be contributed to is [undecided] please either append your changes at the end of the file or insert them alphabetically. If unsure please create an issue.
+The master file that should be contributed to is `yasakli_siteler.csv` please either append your changes at the end of the file or insert them alphabetically. If unsure please create an issue.
+
+# Querying
+I used v0 to make a [simple page](https://aaodz8tx4lbxfmir.vercel.app/) that can query the CSV file
