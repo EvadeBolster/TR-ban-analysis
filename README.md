@@ -11,7 +11,7 @@
 Katkıda bulunulması gereken ana dosya `yasakli_siteler.csv`dir, lütfen değişikliklerinizi dosyanın sonuna ekleyin veya alfabetik olarak ekleyin. Emin değilseniz lütfen bir issue oluşturun.
 
 # Sorgulama
-CSV dosyasını sorgulayabilen bir [basit sayfa] (https://kulwsmm2saihuybu.vercel.app/) yapmak için v0 kullandım
+CSV dosyasını sorgulayabilen bir [basit sayfa](https://kulwsmm2saihuybu.vercel.app/) yapmak için v0 kullandım
 
 # Metodoloji ve Strateji
 DNS çözümlemesi, bireysel bir İSS'sinin varsayılan DNS sunucuları (bu durumda Superonline'ın) kullanılarak yapılır, eğer site engellenmişse, IP, ESB'ye ait olan `2a01:358:4014:a00::3` ve `195.175.254.2` olarak çözümlenir.
@@ -29,7 +29,7 @@ Connection: close
 Yönlendirme konumunun ESB'ye ait olmadığını, farklı bir partiye ait olduğunu görebilirsiniz
 
 ## Muhtelif Partilerin Yasakları
-Bu alan adlarını kimin yasakladığını ve kaç alan adının bu şekilde shaadowbanned edildiğini tam olarak anlayamadım, bulabildiğim bir örnek OnlyFans idi.
+Bu alan adlarını kimin yasakladığını ve kaç alan adına bu şekilde "shadowban" uygulandığını tam olarak anlayamadım, bulabildiğim bir örnek OnlyFans idi.
 ```
 HTTP/1.1 307 Temporary Redirect
 Via: 1.0 middlebox
@@ -47,5 +47,3 @@ Content-Length: 0
 Date: Tue, 31 Dec 2024 18:13:31 GMT
 Connection: close
 ```
-
-Translated with DeepL.com (free version)
